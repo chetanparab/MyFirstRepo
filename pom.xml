@@ -8,6 +8,7 @@
   <description>Project is to learn jenkin</description>
   <build>
   	<finalName>MyFirstJenkinProject</finalName>
+  	
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
