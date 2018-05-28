@@ -7,6 +7,7 @@
   <name>myjenkingproject</name>
   <description>Project is to learn jenkin</description>
   <build>
+  	<finalName>MyFirstJenkinProject</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
@@ -15,6 +16,7 @@
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
+          
         </configuration>
       </plugin>
       
