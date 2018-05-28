@@ -4,6 +4,7 @@
   <artifactId>MyFirstJenkingProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
   <name>myjenkingproject</name>
   <description>Project is to learn jenkin</description>
   <build>
